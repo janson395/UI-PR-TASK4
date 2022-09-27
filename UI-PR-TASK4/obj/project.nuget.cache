@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mEMpeKSR/SiA7wdfBOj9JmVKSflFWnPCtuFx6ZBkoVJwBNK8hSXYTnTfLqwItJm4uAadsx4OeglbcvVi5JpAAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sanya\\source\\repos\\UI-PR-TASK4\\UI-PR-TASK4\\UI-PR-TASK4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sanya\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\Sanya\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

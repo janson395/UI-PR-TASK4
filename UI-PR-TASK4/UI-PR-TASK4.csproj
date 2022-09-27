@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>UI_PR_TASK4</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="View\UserControls\bg_chat.jpeg" />
+    <None Remove="View\UserControls\bg_notes.jpeg" />
+    <None Remove="View\UserControls\bg_nt.jpg" />
+    <None Remove="View\UserControls\bg_pr.jpg" />
+    <None Remove="View\UserControls\bg_st.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignColors" Version="2.0.9" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="View\UserControls\bg_chat.jpeg" />
+    <Resource Include="View\UserControls\bg_notes.jpeg" />
+    <Resource Include="View\UserControls\bg_nt.jpg" />
+    <Resource Include="View\UserControls\bg_pr.jpg" />
+    <Resource Include="View\UserControls\bg_st.jpeg" />
+  </ItemGroup>
+
+</Project>
